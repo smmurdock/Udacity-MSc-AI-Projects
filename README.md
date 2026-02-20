@@ -5,10 +5,7 @@ This repo contains all the solutions to my projects as they pertain to the Udaci
 This may serve as inspiration to fellow learners, but please be sure to follow the Udacity Honor Code and reference any borrowed material.
 
 ## Skills Summary
----
-
----
----
+Data cleaning, PostgreSQL, MongoDB, Database normalization, Database schemas, Database manipulation language (DML), SQL query performance tuning, SQL subqueries, SQL window functions
 
 ## School of Programming and Development
 ### SQL
