@@ -10,7 +10,7 @@ Data cleaning, PostgreSQL, MongoDB, Database normalization, Database schemas, Da
 ## Core Courses
 ### AI Programming with Python
 
-**P1:** A Data-Driven Approach to AI and Python
+**P1:** [A Data-Driven Approach to AI and Python](https://github.com/smmurdock/A-Data-Driven-Approach-to-AI-and-Python/tree/main)
 
 High-level goal: Set up a data science environment, manipulate and visualize data, transform and export cleaned datasets for machine learning model training, and generate insightful visualizations and summaries to help the business team identify top-performing products in the electronics category
 
@@ -21,12 +21,12 @@ Technologies used: Python, pandas, Matplotlib, Seaborn
 
 **P1:** [Deforestation Exploration](https://github.com/smmurdock/Udacity-SQL-DeforestationExploration)
 
-High-level goal: Determine which countries have the largest areas of forest, which are shrinking most rapidly, and present findings that can have the highest-level of impact on preservation initiatives.
+High-level goal: Explore deforestation datasets with relational queries to surface trends and comparisons.
 
-Technologies used: SQL, Report of Findings
+Technologies used: SQL querying, joins and aggregations, result interpretation, and basic visualization exports.
 
 **P2:** [Udiddit, A Social News Aggregator](https://github.com/smmurdock/Udacity-SQL-Udiddit)
 
-High-level goal: Create DDL to optimize an existing social media aggregator site; migrate data to new model.
+High-level goal: Normalize a flawed forum database, migrate existing data, and validate integrity at scale.
 
-Technologies used: PostgreSQL, data modeling, DDL, DML, Report of Findings
+Technologies used: PostgreSQL DDL/DML/DQL, indexes and constraints, Dockerized Postgres 15 workflow, validation queries, and expected counts.
